@@ -1,0 +1,38 @@
+name: loginpagetest
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.9.0
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.5.0
+  cupertino_icons: ^1.0.2
+  #google_sign_in: ^5.0.0
+  fluttertoast: ^8.0.8
+  image_picker: ^0.8.4+3
+  firebase_storage: ^11.1.2
+  firebase_storage_web: ^3.5.0
+  mailer: ^6.0.1
+  #google_maps_flutter: ^0.4.4
+  #webview_flutter: ^3.0.0
+  flutter_svg: ^1.0.0
+  google_maps_flutter: ^2.2.7
+  google_maps_flutter_web: ^0.4.0+9
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/pages/user_icon.svg
+    - lib/pages/loginbackground.png
+    - lib/pages/registerbackground3.png
+    - lib/pages/forgotpasswordbackground3.jpg
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
