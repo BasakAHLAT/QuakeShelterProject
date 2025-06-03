@@ -9,13 +9,13 @@
 };*/
 
 const Map<String, dynamic> firebaseConfig = {
-  'apiKey': 'AIzaSyA-bEhXAuyPVF3oJUg9zcYI_D6p4Mv0EMk',
-  'authDomain': 'shelterappforearthquakevictims.firebaseapp.com',
-  'projectId': 'shelterappforearthquakevictims',
-  'storageBucket': 'shelterappforearthquakevictims.appspot.com',
-  'messagingSenderId': '571407528297',
-  'appId': '1:571407528297:web:afec2083416142b6024df8',
-  'measurementId': 'G-NPPEB7Q3YF'
+  'apiKey': '',
+  'authDomain': '',
+  'projectId': '',
+  'storageBucket': '',
+  'messagingSenderId': '',
+  'appId': '',
+  'measurementId': ''
 };
 
  
